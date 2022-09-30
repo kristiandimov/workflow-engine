@@ -1,0 +1,52 @@
+C:\Training\.NET Core\flow-engine\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Training\.NET Core\flow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+C:\Training\.NET Core\flow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+C:\Training\.NET Core\flow-engine\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Training\.NET Core\flow-engine\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Training\.NET Core\flow-engine\Common\obj\Debug\netcoreapp3.1\Common.genruntimeconfig.cache
+C:\VisualStudioWokspace\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\VisualStudioWokspace\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+C:\VisualStudioWokspace\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+C:\VisualStudioWokspace\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\VisualStudioWokspace\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\VisualStudioWokspace\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.genruntimeconfig.cache
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Kris\Desktop\workflow-engine-last-working\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.genruntimeconfig.cache
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Kris\Desktop\Diplomna\workflow-engine\workflow-engine\Common\obj\Debug\netcoreapp3.1\Common.genruntimeconfig.cache
